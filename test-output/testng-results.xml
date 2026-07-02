@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-19T10:30:36 IST" name="Suite" finished-at="2025-07-19T10:31:40 IST" duration-ms="63965">
+    <groups>
+      <group name="regression">
+        <method signature="TC01_LICEENSE.TEST()[pri:0, instance:Base_Programs1.TC01_LICEENSE@544fa968]" name="TEST" class="Base_Programs1.TC01_LICEENSE"/>
+        <method signature="TC01_NATION.TEST()[pri:0, instance:Base_Programs1.TC01_NATION@247bddad]" name="TEST" class="Base_Programs1.TC01_NATION"/>
+        <method signature="TC01_SKILLS.TEST()[pri:0, instance:Base_Programs1.TC01_SKILLS@7770f470]" name="TEST" class="Base_Programs1.TC01_SKILLS"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="TC01_EDU.TEST()[pri:0, instance:Base_Programs1.TC01_EDU@d35dea7]" name="TEST" class="Base_Programs1.TC01_EDU"/>
+        <method signature="TC01_JOBS.TEST()[pri:0, instance:Base_Programs1.TC01_JOBS@510f3d34]" name="TEST" class="Base_Programs1.TC01_JOBS"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2025-07-19T10:30:36 IST" name="Test" finished-at="2025-07-19T10:31:40 IST" duration-ms="63965">
+      <class name="Base_Programs1.TC01_EDU">
+        <test-method signature="TEST()[pri:0, instance:Base_Programs1.TC01_EDU@d35dea7]" started-at="2025-07-19T10:31:16 IST" name="TEST" finished-at="2025-07-19T10:31:28 IST" duration-ms="11993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TEST -->
+      </class> <!-- Base_Programs1.TC01_EDU -->
+      <class name="Base_Programs1.TC01_NATION">
+        <test-method signature="TEST()[pri:0, instance:Base_Programs1.TC01_NATION@247bddad]" started-at="2025-07-19T10:31:05 IST" name="TEST" finished-at="2025-07-19T10:31:16 IST" duration-ms="11818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TEST -->
+      </class> <!-- Base_Programs1.TC01_NATION -->
+      <class name="Base_Programs1.TC01_LICEENSE">
+        <test-method signature="TEST()[pri:0, instance:Base_Programs1.TC01_LICEENSE@544fa968]" started-at="2025-07-19T10:30:50 IST" name="TEST" finished-at="2025-07-19T10:31:05 IST" duration-ms="14617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TEST -->
+      </class> <!-- Base_Programs1.TC01_LICEENSE -->
+      <class name="Base_Programs1.TC01_JOBS">
+        <test-method signature="TEST()[pri:0, instance:Base_Programs1.TC01_JOBS@510f3d34]" started-at="2025-07-19T10:30:36 IST" name="TEST" finished-at="2025-07-19T10:30:50 IST" duration-ms="13500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TEST -->
+      </class> <!-- Base_Programs1.TC01_JOBS -->
+      <class name="Base_Programs1.TC01_SKILLS">
+        <test-method signature="TEST()[pri:0, instance:Base_Programs1.TC01_SKILLS@7770f470]" started-at="2025-07-19T10:31:28 IST" name="TEST" finished-at="2025-07-19T10:31:40 IST" duration-ms="11966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TEST -->
+      </class> <!-- Base_Programs1.TC01_SKILLS -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

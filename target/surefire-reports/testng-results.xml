@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="5" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-19T11:31:41 IST" name="Suite" finished-at="2025-07-19T11:32:01 IST" duration-ms="19747">
+    <groups>
+      <group name="regression">
+        <method signature="TC01_LICEENSE.TEST()[pri:0, instance:Base_Programs1.TC01_LICEENSE@1f0f1111]" name="TEST" class="Base_Programs1.TC01_LICEENSE"/>
+        <method signature="TC01_NATION.TEST()[pri:0, instance:Base_Programs1.TC01_NATION@49c386c8]" name="TEST" class="Base_Programs1.TC01_NATION"/>
+        <method signature="TC01_SKILLS.TEST()[pri:0, instance:Base_Programs1.TC01_SKILLS@6e0dec4a]" name="TEST" class="Base_Programs1.TC01_SKILLS"/>
+      </group> <!-- regression -->
+    </groups>
+    <test started-at="2025-07-19T11:31:41 IST" name="Test" finished-at="2025-07-19T11:32:01 IST" duration-ms="19747">
+      <class name="Base_Programs1.TC01_NATION">
+        <test-method signature="TEST()[pri:0, instance:Base_Programs1.TC01_NATION@49c386c8]" started-at="2025-07-19T11:31:41 IST" name="TEST" finished-at="2025-07-19T11:31:59 IST" duration-ms="17596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TEST -->
+      </class> <!-- Base_Programs1.TC01_NATION -->
+      <class name="Base_Programs1.TC01_LICEENSE">
+        <test-method signature="TEST()[pri:0, instance:Base_Programs1.TC01_LICEENSE@1f0f1111]" started-at="2025-07-19T11:31:41 IST" name="TEST" finished-at="2025-07-19T11:31:58 IST" duration-ms="16951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TEST -->
+      </class> <!-- Base_Programs1.TC01_LICEENSE -->
+      <class name="Base_Programs1.TC01_SKILLS">
+        <test-method signature="TEST()[pri:0, instance:Base_Programs1.TC01_SKILLS@6e0dec4a]" started-at="2025-07-19T11:31:41 IST" name="TEST" finished-at="2025-07-19T11:32:01 IST" duration-ms="19720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TEST -->
+      </class> <!-- Base_Programs1.TC01_SKILLS -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
